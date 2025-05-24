@@ -3,4 +3,4 @@ This repo was created solely for the purpose of upgrading my technical skills us
 
 ## Projects 
 
-Project 1 - Investigate and analyze price data 
+Project 1: Investigate and analyze price data 
