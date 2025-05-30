@@ -3,6 +3,21 @@
 ## Overall goal
 Learn about commodities markets and demonstrate data analysis skills
 
+## To which job specific role is this project appliacble for?
+**(Taken from gemini)**
+
+- Financial Analyst
+- Commodities Analyst/Trader
+- Quantitative Analyst (Quant)
+- Quantitative Researcher
+- Data Scientist
+- Data Analyst
+- Portfolio Manager
+- Risk Analyst/Manager
+- Economist/Economic Researcher
+- Business Intelligence (BI) Developer/Analyst
+- Supply Chain Analyst
+
 ## Learning Objective
 1. Learning: About commodity storage contracts and how to get detailed data from external sources to provide granular insights.
 
